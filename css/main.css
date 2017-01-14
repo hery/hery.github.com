@@ -1,0 +1,17 @@
+@media (min-width: 1000px) {
+	body {
+		margin-left:10%;
+		margin-right:10%; 
+	}
+}
+
+body {
+	margin-left:0;
+	margin-right:0;
+	padding-top:10%;
+	padding-bottom:10%;
+}
+
+.galery {
+	margin-bottom:5%;
+}
