@@ -19,13 +19,15 @@ a.menu-item {
 	color:white;
 }
 
+.galery-header {
+    margin-top:100px;
+}
+
 .galery {
 	margin-bottom:5%;
 }
 
 p.header-description {
 	padding-top:15%;
-	padding-bottom:5%;
-	/*background-color:#abc;*/
-	margin-bottom:100px;
+	padding-bottom:0%;
 }
