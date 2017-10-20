@@ -31,3 +31,11 @@ p.header-description {
 	padding-top:15%;
 	padding-bottom:0%;
 }
+
+.separator {
+	margin-top:100px;
+}
+
+.big {
+	font-size:60px;
+}
